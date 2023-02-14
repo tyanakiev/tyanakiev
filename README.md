@@ -1,8 +1,12 @@
 # 💫About Me :
 Quick-learning software engineer with years of experience in computer science, database design and administration.
+
 Strong problem-solving skills. Python, C++, Oracle EBS.
+
 Machine Learning - Data Cleaning(Numpy, TensorFlow, Matplotlib, Pandas) 
+
 Advanced Decision Trees, Classification Modeling, Linear Regression, Clustering and Association, CNN.  
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trifonyanakiev) 
